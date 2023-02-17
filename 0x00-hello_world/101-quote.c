@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
- * main - A program that prints without printf function
- * Return: Always 1
+ * main - prints without printf function
+ * Return: Always o (Success)
  */
 
 int main(void)
